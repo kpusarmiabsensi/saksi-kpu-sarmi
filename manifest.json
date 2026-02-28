@@ -1,5 +1,5 @@
 {
-  "name": "SAKSI KPU Sarmi",
+  "name": "SAKSI KPU Sarmi - Flash Report",
   "short_name": "SAKSI Sarmi",
   "start_url": "./index.html",
   "display": "standalone",
@@ -7,7 +7,7 @@
   "theme_color": "#000000",
   "icons": [
     {
-  "name": "SAKSI KPU Sarmi",
+  "name": "SAKSI KPU Sarmi - Flash Report",
   "short_name": "SAKSI Sarmi",
   "start_url": "./index.html",
   "display": "standalone",
