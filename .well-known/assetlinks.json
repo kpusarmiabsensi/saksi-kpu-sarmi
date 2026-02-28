@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.kpusarmiabsensi.twa",
+        "sha256_cert_fingerprints": ["27:E5:32:49:2B:08:D6:23:1F:8D:6A:D6:D9:A5:CA:20:C3:D8:2D:82:28:E3:FA:CC:DE:4A:3D:CE:52:50:F3:1C"]
+      }
+    }]
