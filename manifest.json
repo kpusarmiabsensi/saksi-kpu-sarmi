@@ -1,14 +1,7 @@
 {
   "name": "SAKSI KPU Sarmi - Flash Report",
   "short_name": "SAKSI Sarmi",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#000000",
-  "icons": [
-    {
-  "name": "SAKSI KPU Sarmi - Flash Report",
-  "short_name": "SAKSI Sarmi",
+  "description": "Aplikasi pelaporan hasil observasi dan presensi SAKSI KPU Sarmi",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
